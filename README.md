@@ -20,13 +20,17 @@ A simple movie recommender system built with Python.
 
 4. Run the application:
    ```
-   python main.py
+   python app.py
    ```
 
 ## Features
 
-- Basic movie recommendation functionality (to be implemented)
+- Basic movie recommendation functionality
 
-## Contributing
 
-Feel free to contribute to this project by adding new features or improving existing ones.
+This project was created for learning purposes.
+
+
+Note:
+This project requires `movies.pkl` and `similarity.pkl` which are not included due to large size.
+Please download them separately and place them in the same folder.
